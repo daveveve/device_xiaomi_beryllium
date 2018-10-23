@@ -18,10 +18,10 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 XTENDED_BUILD_TYPE := OFFICIAL
 
-BUILD_FINGERPRINT := "Xiaomi/beryllium/beryllium:8.1.0/OPM1.171019.026/V10.0.4.0.OEJMIFH:user/release-keys
+BUILD_FINGERPRINT := "Xiaomi/beryllium/beryllium:9/PKQ1.180729.001/V10.1.3.0.PEJMIFI:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="beryllium-user 8.1.0 OPM1.171019.026 V10.0.4.0.OEJMIFH release-keys" \
+    PRIVATE_BUILD_DESC="beryllium-user 9 PKQ1.180729.001 V10.1.3.0.PEJMIFI release-keys" \
     PRODUCT_NAME="beryllium" \
     TARGET_DEVICE="beryllium"
 
