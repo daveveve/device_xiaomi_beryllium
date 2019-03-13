@@ -26,7 +26,7 @@ BOARD_HAS_QCA_FM_SOC := "cherokee"
 BOARD_HAVE_QCOM_FM := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := beryllium_defconfig
+TARGET_KERNEL_CONFIG := shadow_defconfig
 
 # Partitions
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 67108864
